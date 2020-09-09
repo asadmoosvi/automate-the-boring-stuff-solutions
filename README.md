@@ -10,6 +10,11 @@
     - No projects
 - **Chapter 3 - Functions:**
     - Chapter's programs:
-        - `zigzag.py`: program thats prints a zig zag pattern.
+        - `zigzag.py`: prints a zig zag pattern.
     - Chapter's projects:
-        - `collatz.py`: a program that prints the [collatz sequence](https://en.wikipedia.org/wiki/Collatz_conjecture) starting from some number.
+        - `collatz.py`: prints the [collatz sequence](https://en.wikipedia.org/wiki/Collatz_conjecture) starting from some number.
+- **Chapter 4 - Lists:**
+    - Chapter's projects:
+        - `comma_code.py`: prints a string representation out of a list of objects.
+        - `coin_flip_streaks.py`: finds out how often a streak of six heads or six tails comes up.
+        - `char_picture_grid.py`: prints a picture from a multi-dimensional list of single characters.
