@@ -25,3 +25,10 @@
     - Chapter's projects:
         - `chess_dic_validator.py`: validates the names and positions of pieces on a chess board.
         - `inventory.py`: basic game inventory management using a dictionary.
+- **Chapter 6 - Manipulating Strings:**
+    - Chapter's programs:
+        - `bullet_point_adder.py`: adds bullet points to a list of items in the clipboard.
+        - `mclip.py`: takes a keyphrase as argument and stores the longer message equivalent into the clipboard.
+        - `piglat.py`: converts a message to pig latin.
+    - Chapter's projects:
+        - `table_printer.py`: prints a properly aligned table from a list of lists.
