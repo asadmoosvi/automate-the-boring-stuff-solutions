@@ -32,3 +32,10 @@
         - `piglat.py`: converts a message to pig latin.
     - Chapter's projects:
         - `table_printer.py`: prints a properly aligned table from a list of lists.
+- **Chapter 7 - Pattern Matching with Regular Expressions:**
+    - Chapter's programs:
+        - `phone_and_email.py`: matches phone numbers and emails.
+    - Chapter's projects:
+        - `date_detection.py`: validates dates based on regex.
+        - `strong_password.py`: checks if a password is strong based on various criteria.
+        - `regex_strip.py`: a regex version of the str strip method.
