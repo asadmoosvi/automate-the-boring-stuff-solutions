@@ -39,3 +39,7 @@
         - `date_detection.py`: validates dates based on regex.
         - `strong_password.py`: checks if a password is strong based on various criteria.
         - `regex_strip.py`: a regex version of the str strip method.
+- **Chapter 8 - Input Validation:**
+    - Chapter's projects:
+        - `sandwich_maker.py`: validates user input using pyinputplus lib.
+        - `mult_quiz.py`: multiplication quiz example without using the pyinputplus lib.
