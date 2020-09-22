@@ -43,3 +43,8 @@
     - Chapter's projects:
         - `sandwich_maker.py`: validates user input using pyinputplus lib.
         - `mult_quiz.py`: multiplication quiz example without using the pyinputplus lib.
+- **Chapter 9 - Reading and Writing Files:**
+    - Chapter's projects:
+        - `mcb.py`: save clipboard entries in a python shelf file.
+        - `mad_libs.py`: substitute placeholder words in a file by user supplied values.
+        - `re_search.py`: works like grep. searches a folder for files that match a regex pattern.
