@@ -1,5 +1,5 @@
 import time, random
-from typing import Optional, Sequence
+from typing import Optional
 
 def main() -> int:
     total_questions = 10
