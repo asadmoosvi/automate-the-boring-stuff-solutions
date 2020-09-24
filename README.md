@@ -48,3 +48,8 @@
         - `mcb.py`: save clipboard entries in a python shelf file.
         - `mad_libs.py`: substitute placeholder words in a file by user supplied values.
         - `re_search.py`: works like grep. searches a folder for files that match a regex pattern.
+- **Chapter 10 - Organizing Files:**
+    - Chapter's projects:
+        - `selective_copy.py`: copy files of some extension to another dir.
+        - `delete_unneeded.py`: show large files (>100mb) inside a dir tree.
+        - `fill_gaps.py`: remove gaps in numbers from filenames by renaming them.
