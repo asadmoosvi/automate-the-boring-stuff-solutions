@@ -53,3 +53,6 @@
         - `selective_copy.py`: copy files of some extension to another dir.
         - `delete_unneeded.py`: show large files (>100mb) inside a dir tree.
         - `fill_gaps.py`: remove gaps in numbers from filenames by renaming them.
+- **Chapter 11 - Debugging:**
+    - Chapter's projects:
+        - `coin_toss.py`: coin toss program.
