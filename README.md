@@ -56,3 +56,12 @@
 - **Chapter 11 - Debugging:**
     - Chapter's projects:
         - `coin_toss.py`: coin toss program.
+- **Chapter 12 - Web Scraping:**
+    - Chapter's programs:
+        - `searchpypi.py`: open search results from pypi.
+        - `map_it.py`: search for a location on google maps.
+        - `download_xkcd.py`: download xkcd comics.
+    - Chapter's projects:
+        - `cli_email.py`: send an email from the command line using selenium.
+        - `2048.py`: play the 2048 game by sending arrow keys using selenium.
+        - `link_verify.py`: verify the links on a web page by checking their status codes.
